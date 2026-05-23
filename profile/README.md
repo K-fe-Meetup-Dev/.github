@@ -110,17 +110,11 @@ To create a supportive ecosystem where developers can:
 
 # 🛠 Tech Stack (Example)
 
-* Frontend: React / Next.js
-* Backend: Node.js / Express
-* Database: PostgreSQL / MongoDB
-* Authentication: Firebase / Auth0
+* Frontend: React / Next.js / Tanstack 
+* Backend: Node.js / Nest.js
+* Database: PostgreSQL / D1 / Drizzle
+* Authentication: Auth0
 * Maps & Location: Google Maps API
-
----
-
-# 📷 Screenshots
-
-*Add application screenshots here.*
 
 ---
 
